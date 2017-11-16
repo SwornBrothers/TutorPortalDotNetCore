@@ -1,0 +1,11 @@
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\bin\Debug\netcoreapp2.0\TutorPortalDotNetCore.deps.json
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\bin\Debug\netcoreapp2.0\TutorPortalDotNetCore.runtimeconfig.json
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\bin\Debug\netcoreapp2.0\TutorPortalDotNetCore.runtimeconfig.dev.json
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\bin\Debug\netcoreapp2.0\TutorPortalDotNetCore.dll
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\bin\Debug\netcoreapp2.0\TutorPortalDotNetCore.pdb
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\obj\Debug\netcoreapp2.0\TutorPortalDotNetCore.csprojResolveAssemblyReference.cache
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\obj\Debug\netcoreapp2.0\TutorPortalDotNetCore.csproj.CoreCompileInputs.cache
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\obj\Debug\netcoreapp2.0\TutorPortalDotNetCore.AssemblyInfoInputs.cache
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\obj\Debug\netcoreapp2.0\TutorPortalDotNetCore.AssemblyInfo.cs
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\obj\Debug\netcoreapp2.0\TutorPortalDotNetCore.dll
+F:\OneDrive\TutorPortal\TutorPortalDotNetCore\obj\Debug\netcoreapp2.0\TutorPortalDotNetCore.pdb
